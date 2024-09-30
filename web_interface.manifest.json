@@ -1,0 +1,1 @@
+{"background_color":"#000000","display":"standalone","icons":[{"sizes":"144x144","src":"web_interface.144x144.png","type":"image/png"},{"sizes":"180x180","src":"web_interface.180x180.png","type":"image/png"},{"sizes":"512x512","src":"web_interface.512x512.png","type":"image/png"}],"name":"web_interface","orientation":"any","start_url":"./web_interface.html"}
